@@ -1,0 +1,24 @@
+// Border-Radius styling start
+.border__radius-min {
+  border-radius: $radius-min;
+}
+
+.border__radius-max {
+  border-radius: $radius-max;
+}
+
+.border__radius-avatar {
+  border-radius: $radius-avatar;
+}
+
+// Border-Radius styling stop
+
+// Border styling start
+.border__min {
+  border: $line-min solid $grey-5;
+}
+
+.border__max {
+  border: $line-max solid $grey-5;
+}
+// Border styling stop

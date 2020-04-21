@@ -1,0 +1,43 @@
+/* Button styling */
+.btn {
+  outline: none;
+  border: none;
+  color: inherit;
+  width: auto;
+  height: auto;
+  color: $white;
+  cursor: pointer;
+}
+
+.btn__large {
+  width: 300px;
+  height: auto;
+}
+
+.btn__medium {
+  width: 200px;
+  height: auto;
+}
+
+.btn__small {
+  width: 100px;
+  height: auto;
+}
+
+.btn__success {
+  background: $success-color;
+}
+
+.btn__warn {
+  background: $warn-color;
+}
+
+.btn__info {
+  background: $primary-color;
+}
+
+.btn__fail {
+  background: $fail-color;
+}
+
+/* Button styling end */

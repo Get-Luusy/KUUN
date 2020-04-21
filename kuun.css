@@ -1,0 +1,132 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* Button styling */
+.btn {
+  outline: none;
+  border: none;
+  color: inherit;
+  width: auto;
+  height: auto;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn__large {
+  width: 300px;
+  height: auto;
+}
+
+.btn__medium {
+  width: 200px;
+  height: auto;
+}
+
+.btn__small {
+  width: 100px;
+  height: auto;
+}
+
+.btn__success {
+  background: #65e892;
+}
+
+.btn__warn {
+  background: #ffd082;
+}
+
+.btn__info {
+  background: #1089ff;
+}
+
+.btn__fail {
+  background: #fe346e;
+}
+
+/* Button styling end */
+/* Margin styling start */
+.margin__small {
+  margin: 4px;
+}
+
+.margin__medium {
+  margin: 8px;
+}
+
+.margin__large {
+  margin: 16px;
+}
+
+/* Margin styling end*/
+/* Padding styling start */
+.padding__small {
+  padding: 4px;
+}
+
+.padding__medium {
+  padding: 8px;
+}
+
+.padding__large {
+  padding: 16px;
+}
+
+/* Padding styling end */
+.header__1 {
+  font-size: 48px;
+}
+
+.header__2 {
+  font-size: 40px;
+}
+
+.header__3 {
+  font-size: 32px;
+}
+
+.header__4 {
+  font-size: 24px;
+}
+
+.header__5 {
+  font-size: 16px;
+}
+
+.paragraph__1 {
+  font-size: 22px;
+}
+
+.paragraph__2 {
+  font-size: 11px;
+}
+
+.paragraph__3 {
+  font-size: 9px;
+}
+
+.paragraph__4 {
+  font-size: 7px;
+}
+
+.border__radius-min {
+  border-radius: 8px;
+}
+
+.border__radius-max {
+  border-radius: 16px;
+}
+
+.border__radius-avatar {
+  border-radius: 50%;
+}
+
+.border__min {
+  border: 2px solid #e4e4e4;
+}
+
+.border__max {
+  border: 4px solid #e4e4e4;
+}
+
+/*# sourceMappingURL=kuun.css.map */

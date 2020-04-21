@@ -1,0 +1,17 @@
+{
+  "name": "KUUN",
+  "version": "0.0.1beta",
+  "description": "Lightweight CSS framework",
+  "main": "index.js",
+  "repository": "https://github.com/Get-Luusy/KUUN.git",
+  "author": "Erick Wachira",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "watch": "sass --watch sass/main.scss:kuun.css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "sass": "^1.26.3"
+  }
+}
