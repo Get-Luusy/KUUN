@@ -11,7 +11,7 @@
     "watch": "sass --watch sass/main.scss:kuun.css"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass": "^1.26.3"
   }
 }
